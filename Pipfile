@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 vk-api = "*"
+peewee = "*"
+flask = "*"
+pytest = "*"
 
 [dev-packages]
 
